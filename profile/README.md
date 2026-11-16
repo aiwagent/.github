@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aiwagent/.github/main/profile/logo.svg" alt="Айвагент" width="88" height="88">
+<img src="https://raw.githubusercontent.com/aiwagent/.github/main/profile/logo.svg" alt="Айвагент" width="88">
 
 # Айвагент
 
