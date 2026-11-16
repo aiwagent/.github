@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://aiwagent.by/assets/apple-touch-icon.png" alt="Айвагент" width="96" height="96">
+<img src="https://raw.githubusercontent.com/aiwagent/.github/main/profile/logo.svg" alt="Айвагент" width="88" height="88">
 
 # Айвагент
 
-**Когда готовые сервисы не решают вашу задачу — разрабатываем решение под ваш процесс.**
+### Понимаем процесс. Создаём инструмент.
 
-Разработка ПО · ИИ для документов · автоматизация
+Разработка ПО · ИИ для документов · Автоматизация · Гродно, Беларусь
 
-[Сайт](https://aiwagent.by) &nbsp;·&nbsp; [Продукты](https://aiwagent.by/products) &nbsp;·&nbsp; [Решения](https://aiwagent.by/resheniya) &nbsp;·&nbsp; [О компании](https://aiwagent.by/about) &nbsp;·&nbsp; [Связаться](mailto:request@aiwagent.by)
-
-Гродно, Беларусь
+[Сайт](https://aiwagent.by) &nbsp;·&nbsp; [Услуги](https://aiwagent.by/services) &nbsp;·&nbsp; [Продукты](https://aiwagent.by/products) &nbsp;·&nbsp; [Решения](https://aiwagent.by/resheniya) &nbsp;·&nbsp; [Связаться](https://aiwagent.by/contacts)
 
 </div>
-
----
 
 ## Чем мы занимаемся
 
 Работаем на пересечении документов, данных и повседневных задач предприятий: связываем данные, автоматизируем операции и создаём удобные рабочие инструменты.
 
-| | |
-|---|---|
-| **Разработка ПО** | Приложения и внутренние системы под процессы вашей компании. |
-| **ИИ для документов** | Анализ, извлечение информации и поиск с проверяемым результатом. |
-| **Автоматизация** | Обмен данными между системами и меньше ручного переноса. |
+- **[Разработка ПО](https://aiwagent.by/services#software)** — приложения и внутренние системы под процессы вашей компании.
+- **[ИИ для документов](https://aiwagent.by/services#ai)** — анализ, извлечение информации и поиск с проверяемым результатом.
+- **[Автоматизация](https://aiwagent.by/services#integrations)** — обмен данными между системами и меньше ручного переноса.
 
 ## Наши продукты
 
@@ -32,53 +26,47 @@
   <tr>
     <td width="33%" valign="top">
       <h3>AiwaWork</h3>
-      <b>ИИ-агент для сотрудников. Под контролем ИТ.</b><br><br>
-      Работает с файлами и корпоративными системами сотрудника, а модели, сеть, правила и журнал действий остаются у организации — в том числе в полностью изолированной сети.<br><br>
-      <sub>Windows · macOS · Linux</sub><br>
-      <a href="https://aiwagent.by/products">Подробнее →</a>
+      <b>ИИ-агент для сотрудников под контролем ИТ.</b>
+      <p>Работает с файлами и корпоративными системами, а модели, сеть, правила и журнал действий остаются у организации — вплоть до полностью изолированной сети.</p>
+      <a href="https://aiwagent.by/products">Подробнее →</a> &nbsp;·&nbsp; <a href="https://aiwagent.by/products#download">Скачать</a>
     </td>
     <td width="33%" valign="top">
       <h3>PromAI</h3>
-      <b>Закупки и договоры.</b><br><br>
-      Закупки, требования ТЗ и замечания к договорам — в одном рабочем процессе.<br><br>
-      <a href="https://aiwagent.by/resheniya">Разобрать решение →</a>
+      <b>Закупки и договоры.</b>
+      <p>Поиск закупок, требования ТЗ и замечания к договорам — в одном рабочем процессе.</p>
+      <a href="https://aiwagent.by/resheniya#promai">Разобрать решение →</a>
     </td>
     <td width="33%" valign="top">
       <h3>PromasQR</h3>
-      <b>Производство.</b><br><br>
-      От QR-кода на детали — к чертежам, файлам и актуальной ревизии.<br><br>
-      <a href="https://aiwagent.by/resheniya">Разобрать решение →</a>
+      <b>Производство.</b>
+      <p>От QR-кода на детали — к чертежам, файлам и актуальной ревизии.</p>
+      <a href="https://aiwagent.by/resheniya#promasqr">Разобрать решение →</a>
     </td>
   </tr>
 </table>
 
-## Как мы строим работу
-
-> **Сначала процесс, затем технология.** Программа полезна, когда ею удобно пользоваться.
+## Как мы работаем
 
 1. **Разбираемся в процессе.** Уточняем задачу, пользователей, данные и ограничения.
 2. **Предлагаем решение.** Согласуем сценарий, объём работ и ожидаемый результат.
 3. **Запускаем и проверяем.** Тестируем на рабочих задачах и собираем обратную связь.
 
-Решение проектируем так, чтобы действия были понятными, результаты — проверяемыми, а развитие — поэтапным. Интеграции, ограничения и порядок работы обсуждаем до внедрения.
+Действия в системе понятны, результаты проверяемы, а развитие идёт поэтапно. Интеграции и ограничения обсуждаем до внедрения.
 
 ## Связаться
 
 Расскажите о процессе — обсудим, что можно упростить и с чего начать.
 
-- Сайт: [aiwagent.by](https://aiwagent.by)
-- Почта: [request@aiwagent.by](mailto:request@aiwagent.by)
-- Телефон: [+375 25 774-39-02](tel:+375257743902)
-- Адрес: Республика Беларусь, г. Гродно
+📧 [request@aiwagent.by](mailto:request@aiwagent.by) &nbsp;·&nbsp; 📞 [+375 25 774-39-02](tel:+375257743902) &nbsp;·&nbsp; 🌐 [aiwagent.by](https://aiwagent.by)
+
+<details>
+<summary><b>In English</b></summary>
+<br>
+
+Aiwagent is a software development and automation team in Grodno, Belarus. We build tools for documents, procurement and production, and AI agents that stay under the organization's control. Visit [aiwagent.by](https://aiwagent.by) or write to [request@aiwagent.by](mailto:request@aiwagent.by).
+
+</details>
 
 ---
 
-<div align="center">
-<sub>
-
-**In English.** Aiwagent is a software development and automation team in Grodno, Belarus. We build tools for documents, procurement and production, and AI agents that stay under the organization's control. See [aiwagent.by](https://aiwagent.by) or write to [request@aiwagent.by](mailto:request@aiwagent.by).
-
-ООО «Айвагент» · © 2026 AIWAGENT
-
-</sub>
-</div>
+<p align="center"><sub>ООО «Айвагент» · Гродно, Беларусь · © 2026</sub></p>
